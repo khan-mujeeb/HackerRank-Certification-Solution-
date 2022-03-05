@@ -12,7 +12,7 @@ Define the following 2 classes to represent 2-dimensional objects.
 * 2 argument constructor for length and breadth. It should forward those arguments to the superclass constructor.
 * Override the area() method to print the area using the formula (length*breadth).
 
-### [SOLUTION :link:](https://github.com/khan-mujeeb/HackerRank-Certification-Solution-/tree/main/Problem%20Solving%20basics)
+### [SOLUTION :link:](https://github.com/khan-mujeeb/HackerRank-Certification-Solution-/tree/main/java(basics))
 
 ## 3. Java Program Flow
 <img src = "https://user-images.githubusercontent.com/89351750/156893358-4f06e1c1-d462-4d94-bf31-cc2e00b5fdcd.png" width="300" height="500">
